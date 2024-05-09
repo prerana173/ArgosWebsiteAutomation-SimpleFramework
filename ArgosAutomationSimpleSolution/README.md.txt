@@ -5,9 +5,6 @@ Table of Contents
 - [Features]
 - [Installation]
 - [Usage]
-- [Configuration]
-- [Contributing]
-- [License]
 
 Introduction
 This simple automation framework is written in Java Selenium with Cucumber BDD framework and POM design pattern. It has scenarios and underlying code written for Argos Website.
