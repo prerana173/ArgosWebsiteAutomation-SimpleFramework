@@ -21,7 +21,7 @@ Installation
 To use this automation project, follow these steps:
 
 1. Clone the repository: Clone the repository from github.
-2. Install dependencies: Go to pom.xml and load the file when downloads the required dependencies.
+2. Install dependencies: Go to pom.xml and load the pom file which downloads the required dependencies.
 
 
 Usage
@@ -29,5 +29,5 @@ To execute the automation scripts please see below:
 
 Here's a brief overview of common usage scenarios:
 
-1. TestRunner file allows the scenarios to be executed in parallel. Click RUn button beside the class name in TestRunner class to execute scripts in parallel.
+1. TestRunner file allows the scenarios to be executed in parallel. Click Run button beside the class name in TestRunner class to execute scripts in parallel.
 2. Alternately the scenarios can be executed from feature file as well in which case the scenarios execute consecutively.
