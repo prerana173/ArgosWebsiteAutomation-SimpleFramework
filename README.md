@@ -1,5 +1,3 @@
-Automation Project
-
 Table of Contents
 - [Introduction]
 - [Features]
